@@ -2,7 +2,7 @@ package com.qa.tests;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
+//hello  nitu
 public class Demitest {
 	@Test
 	public void sum() {
@@ -15,3 +15,4 @@ public class Demitest {
 	}
 
 }
+//that is done
