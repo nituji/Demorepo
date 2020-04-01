@@ -1,0 +1,11 @@
+/*
+git config --global http.sslVerify false --->> to make the SSL Certificate false
+
+git remote add origin https://github.com/nituji/testing.git
+git init()
+git status
+git add .   or git add filenamewithpath
+git commit -m "comments"
+git push origin master 
+
+*/
